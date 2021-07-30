@@ -22,7 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/127583722-86c4c769-4da1-48b1-aec4-127b78881e4f.png)
 
-
 # 3. Marco Teórico
 
 ![Teorema de transferencia de potencia máxima (1)](https://user-images.githubusercontent.com/85137954/127581878-e38fbd6a-4f42-4741-bd5c-da0f08fcf57f.png)
@@ -59,18 +58,13 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/127583969-93c57c12-4b7d-4c11-ba7e-c50bccaeedca.png)
 
-
 5.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla
 
 ![image](https://user-images.githubusercontent.com/85137954/127584019-850da2f2-7b41-4eb8-9e2a-6e8c55e93b3c.png)
 
 5.4 Tabla de Parámetros eléctricos del circuito de la figura
 
-
-
-
-
-
+![WhatsApp Image 2021-07-29 at 20 16 18](https://user-images.githubusercontent.com/85137954/127585270-ab326c5c-3b56-435a-8a97-33cef0933045.jpeg)
 
 5.5 ¿Se cumple el teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
