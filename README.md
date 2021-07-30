@@ -16,7 +16,12 @@
 
 ## 1.2 Objetivos Específicos
 
-
+- Analizar el efecto de la variación de la carga en la potencia entregada por un
+circuito.
+ 
+- Asegurar el valor de la resistencia de carga, a la que se transfiere la potencia máxima.
+ 
+- Identificar en el circuito la resistencia de carga y cómo manipularla.
 
 # 2. Requisitos Previos
 
@@ -86,6 +91,11 @@ fuente, RS.
 
 # 7. Conclusiones
 
+- Como se muestran en los resultados al ir incrementando la resistencia de carga, irá variando la potencia entregada por el circuito.
+ 
+- La potencia será máxima cuando la resistencia de carga sea igual a la resistencia interna del circuito (o la resistencia equivalente de Thevenin).
+ 
+- La resistencia de carga está representada como RL y es la resistencia que iremos variando.
 
 # 8. Referencias
 
