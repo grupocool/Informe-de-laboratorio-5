@@ -74,9 +74,13 @@
 
 5.5 ¿Se cumple el teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
-
+Si ya que  una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia
+de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la
+fuente, RS.
 
 5.6 ¿Cuál fue la potencia máxima en RL? (en watts)
+
+
 
 5.7 ¿Para qué valor de RL se obtiene la MTP? (en ohms)
 
