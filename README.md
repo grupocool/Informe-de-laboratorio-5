@@ -64,7 +64,7 @@
 
 5.4 Tabla de Parámetros eléctricos del circuito de la figura
 
-![WhatsApp Image 2021-07-29 at 20 16 18](https://user-images.githubusercontent.com/85137954/127585270-ab326c5c-3b56-435a-8a97-33cef0933045.jpeg)
+![WhatsApp Image 2021-07-29 at 20 16 18](https://user-images.githubusercontent.com/85137954/127585352-b6d8f722-bf64-4e5b-80cf-e4a8a67bce6d.jpeg)
 
 5.5 ¿Se cumple el teorema de la Máxima Transferencia de Potencia? Argumente su respuesta
 
