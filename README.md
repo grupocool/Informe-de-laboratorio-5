@@ -80,10 +80,11 @@ fuente, RS.
 
 5.6 ¿Cuál fue la potencia máxima en RL? (en watts)
 
-
+0.0465[W]
 
 5.7 ¿Para qué valor de RL se obtiene la MTP? (en ohms)
 
+1000[ohm]
 
 # 6. Video
 
