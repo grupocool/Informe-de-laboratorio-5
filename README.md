@@ -39,10 +39,30 @@
 
 5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla y anote los resultados medidos.
 
+![image](https://user-images.githubusercontent.com/85137954/127583883-f1317bea-926e-4cf5-90c3-73369f52e016.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583895-d9710793-a96a-45fe-b24c-bd57a3aec7d3.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583909-320302e5-39de-4ee0-bb16-9431b114cd95.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583918-7b26e2f1-e49b-4961-af86-fc7128200838.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583930-d595150a-ebca-4fcc-afbc-059e27a142c9.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583939-472b9d55-01cb-4b65-9cd7-4518a1826d64.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583947-fd155002-e923-47c6-9e4a-7e57c0bb5c0d.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583954-b199e23d-92f1-4f5e-ae47-48beaf2e080a.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583958-22561943-78fc-4846-994e-f62ccbaa0c95.png)
+
+![image](https://user-images.githubusercontent.com/85137954/127583969-93c57c12-4b7d-4c11-ba7e-c50bccaeedca.png)
 
 
 5.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla
 
+![image](https://user-images.githubusercontent.com/85137954/127584019-850da2f2-7b41-4eb8-9e2a-6e8c55e93b3c.png)
 
 5.4 Tabla de Parámetros eléctricos del circuito de la figura
 
