@@ -92,8 +92,7 @@ fuente, RS.
 - Johnson, D. E. et al. Electric Circuit Analysis. 3a. ed. Upper
 Saddle River, NJ: Prentice Hall, 1997.
 
-- Kraus, A. D. Circuit Analysis, St. Paul, MN: West Publishing,
-1991.
+- Kraus, A. D. Circuit Analysis, St. Paul, MN: West Publishing, 1991.
 
 - Mayergoyz, I. D., y W. Lawson. Basic Electric Circuits Theory.
 San Diego, CA: Academic Press, 1997.
