@@ -12,7 +12,7 @@
  **Tema:** Teorema de la máxima transferencia de potencia.
 # 1. Objetivo General
 
-- 
+- Comprobar experimentalmente el Teorema de la máxima transferencia de potencia.
 
 ## 1.2 Objetivos Específicos
 
